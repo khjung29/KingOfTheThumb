@@ -1,0 +1,29 @@
+{ 
+  "channels" : [
+    {
+      "title" : "엄지의제왕",
+      "fbNativeInterval" : "6",
+      "fbNativeReload" : "true",
+      "notiOn" : "false",
+      "notiTitle" : "공지",
+      "notiMsg" : "감사합니다",
+      "notiPositiveText" : "확인",
+      "notiNegativeText" : "취소",
+      "type" : "0",
+      "typecnt" : "0",
+      "typenames" : [""],
+      "url" : "http://m.post.naver.com/my/series/detail/",
+      "searchUrl" : "http://m.post.naver.com/search/authorPost/",
+      "postId" : "11773044",
+      "memberNo" : "11595512",
+      "seriesNo" : "207933",
+      "keyword" : "레시피",
+      "sortType" : "createDate.dsc",
+      "itemList" : [
+          { "title" : "TV명장면", "id" : "1", "img" : "", "sort" : "1"},
+          { "title" : "포스트레시피", "id" : "2", "img" : "", "sort" : "2"},
+          { "title" : "블로그레시피", "id" : "3", "img" : "", "sort" : "3"}
+      ]
+    }    
+  ]
+}
