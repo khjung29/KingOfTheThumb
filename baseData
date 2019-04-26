@@ -21,7 +21,7 @@
       "sortType" : "createDate.dsc",
       "itemList" : [
           { "title" : "TV명장면", "id" : "1", "img" : "", "sort" : "1"},
-          { "title" : "포스트레시피", "id" : "2", "img" : "", "sort" : "2"},
+          { "title" : "자가진단꿀팁", "id" : "2", "img" : "", "sort" : "2"},
           { "title" : "블로그레시피", "id" : "3", "img" : "", "sort" : "3"}
       ]
     }    
